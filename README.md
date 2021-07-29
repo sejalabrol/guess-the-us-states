@@ -1,5 +1,5 @@
 # US States Game
-A remake of the US States Game in Python using Turtle Graphics wherein progress of the game can be saved 
+A remake of the US States Game in Python using [*Turtle Graphics*](https://docs.python.org/3/library/turtle.html) wherein progress of the game can be saved 
 
 
 ## Screenshots
